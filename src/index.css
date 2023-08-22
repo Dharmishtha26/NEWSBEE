@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&family=Rubik:wght@500&display=swap');
+ 
+  
+
+nav{
+  background-color: rgb(192, 216, 239);
+  font-family: 'Poppins', sans-serif ;
+  font-size: 15px;
+  line-height: 26px;
+  text-transform: uppercase;
+  box-shadow: 0 8px 6px -6px rgb(114, 162, 173);
+  --webkit-box-shadow: 0 8px 6px -6px rgb(128, 174, 185);
+  border-bottom:  solid rgb(105, 159, 171)  !important;
+  position: fixed;
+}
+
+
+span{
+  color:rgb(36, 48, 117) ;
+}
+
+
+.fetchdata h3{
+  text-align: center;
+  margin: 3px,4px;
+  color: rgb(2, 25, 71);
+}
+.fetchdata a{
+  margin-bottom: 4px;
+}
+.sports{
+  color: rgb(2, 25, 71);
+  margin: 3px,5px;
+}
